@@ -11,7 +11,7 @@ It provides a **secure and efficient way to manage books**, including **CRUD ope
 - ✅ **Pagination Support** for listing books
 - ✅ **Popularity Score Calculation** (based on views & age of book)
 - ✅ **Soft Deletion** for books
-- ✅ **Secure Endpoints** with role-based authorization
+- ✅ **Secure Endpoints**
 - ✅ **Swagger API Documentation**
 
 ---
