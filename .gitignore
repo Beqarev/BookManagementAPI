@@ -33,7 +33,7 @@ logs/
 # Ignore environment and configuration files
 .env
 secrets.json
-appsettings*.json
+
 
 # Ignore Entity Framework Migrations (optional)
 Migrations/
