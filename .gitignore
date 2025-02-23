@@ -1,0 +1,62 @@
+# Ignore build and cache directories
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.app/
+*.so
+*.dylib
+*.a
+*.lib
+
+# Ignore user-specific settings and IDE metadata
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.ncrunch*
+*.nvuser
+*.sln.dotSettings
+*.sln.dotSettings.user
+
+# Ignore logs and database files
+logs/
+*.log
+*.sql
+*.sqlite
+
+# Ignore environment and configuration files
+.env
+secrets.json
+appsettings*.json
+
+# Ignore Entity Framework Migrations (optional)
+Migrations/
+
+# Ignore JetBrains Rider & macOS system files
+.idea/
+.DS_Store
+
+# Ignore NuGet packages and dependency caches
+packages/
+project.lock.json
+project.assets.json
+*.nuspec
+*.nupkg
+
+# Ignore Swagger auto-generated files
+swagger/
+
+# Ignore Node.js files (if using front-end dependencies)
+node_modules/
+
+# Ignore debugging and temp files
+debug/
+*.bak
+*.swp
+

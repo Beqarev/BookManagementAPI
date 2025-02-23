@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksManagementAPI", "BooksManagementAPI\BooksManagementAPI.csproj", "{B2E6CECF-B566-4156-AE90-BE3487906862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{4368B8FC-45BD-4EF1-A797-D1E3A1FE3DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{DA96ACAA-44AA-4F9A-80E3-3D3466B35347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E6CECF-B566-4156-AE90-BE3487906862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E6CECF-B566-4156-AE90-BE3487906862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E6CECF-B566-4156-AE90-BE3487906862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E6CECF-B566-4156-AE90-BE3487906862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4368B8FC-45BD-4EF1-A797-D1E3A1FE3DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4368B8FC-45BD-4EF1-A797-D1E3A1FE3DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4368B8FC-45BD-4EF1-A797-D1E3A1FE3DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4368B8FC-45BD-4EF1-A797-D1E3A1FE3DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA96ACAA-44AA-4F9A-80E3-3D3466B35347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA96ACAA-44AA-4F9A-80E3-3D3466B35347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA96ACAA-44AA-4F9A-80E3-3D3466B35347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA96ACAA-44AA-4F9A-80E3-3D3466B35347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
